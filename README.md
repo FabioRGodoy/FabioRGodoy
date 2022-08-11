@@ -1,6 +1,10 @@
 <div align="center">
  Hey, it's me, Fábio 👋
+</div>
 
+##
+
+<div align="center">
 <details>
   <summary> More about me</summary>
 <div align="left">
@@ -37,7 +41,7 @@ const me = {
   <img height="180em" width="390vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiorgodoy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,7 +51,7 @@ const me = {
   
   ##
   
-  <div>
+  <div align="center">
   <a href = "mailto:fabiogodoy955@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiogodoyy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
