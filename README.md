@@ -16,7 +16,7 @@ const me = {
         fullName: 'Fábio Roerto de Godoy',
         birthDate: '1995-04-26',
         pronouns: 'he' | 'his',
-        hobbies: ['Game', 'Travel', 'Movie', 'series', 'Family'],
+        hobbies: ['Game', 'Travel', 'Movie', 'Series', 'Family'],
     },
     technical: {
         technologies: {
