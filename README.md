@@ -1,5 +1,35 @@
-### Olá, eu sou Fabio Godoy 👋
+<div align="center">
+ Hey, it's me, Fábio 👋
 
+<details>
+  <summary> More about me</summary>
+<div align="left">
+
+``` js
+
+const me = {
+    personal: {
+        fullName: 'Fábio Roerto de Godoy',
+        birthDate: '1995-04-26',
+        pronouns: 'he' | 'his',
+        hobbies: ['Game', 'Travel', 'Movie', 'series', 'Family'],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React (...in learning)'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass']
+            },
+            backEnd: ['(...in learning)']
+        }
+    }
+}
+
+```
+</div>
+</details>
+</div>
 
 <div align="center">
   <a href="https://github.com/FabioRGodoy">
