@@ -25,7 +25,12 @@ const me = {
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass']
             },
-            backEnd: ['(...in learning)']
+            backEnd: {
+                Node.js,
+                TypeORM,
+                Express,
+                PostgreSQL
+            }
         }
     }
 }
