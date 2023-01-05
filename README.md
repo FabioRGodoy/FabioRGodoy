@@ -21,16 +21,17 @@ const me = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React (...in learning)'],
+                Javascript: ['Vanilla JS', 'React'],
+                TypeScript,
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass']
+                CSS: ['sass', 'Styled-Components']
             },
             backEnd: {
-                Node.js,
-                TypeORM,
-                Express,
-                PostgreSQL
-            }
+                Javascript: ['Node JS', 'Express'],
+                TypeScript,
+                ORM: ['TypeORM'],
+                DataBase: ['PostgreSQL']
+          }
         }
     }
 }
