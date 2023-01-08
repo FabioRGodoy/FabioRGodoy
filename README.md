@@ -13,7 +13,7 @@
 
 const me = {
     personal: {
-        fullName: 'Fábio Roerto de Godoy',
+        fullName: 'Fábio Roberto de Godoy',
         birthDate: '1995-04-26',
         pronouns: 'he' | 'his',
         hobbies: ['Game', 'Travel', 'Movie', 'Series', 'Family'],
