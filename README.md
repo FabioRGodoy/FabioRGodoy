@@ -12,29 +12,44 @@
 ``` js
 
 const me = {
-    personal: {
-        fullName: 'Fábio Roberto de Godoy',
-        birthDate: '1995-04-26',
-        pronouns: 'he' | 'his',
-        hobbies: ['Game', 'Travel', 'Movie', 'Series', 'Family'],
+  personal: {
+    fullName: 'Fábio Roberto de Godoy',
+    birthDate: '1995-04-26',
+    pronouns: 'he' as const,
+    hobbies: ['Coding', 'Muay Thai', 'Movies', 'Travel', 'Family Time'],
+  },
+  technical: {
+    role: 'Full Stack Developer',
+    technologies: {
+      frontEnd: {
+        languages: ['JavaScript', 'TypeScript'],
+        frameworks: ['React', 'Next.js (App & Pages Router)'],
+        styling: ['Tailwind CSS', 'Radix UI', 'Framer Motion'],
+        tools: ['React Hook Form', 'Zod', 'Zustand'],
+      },
+      backEnd: {
+        languages: ['Node.js', 'TypeScript'],
+        frameworks: ['Express', 'Fastify'],
+        database: ['DynamoDB', 'MongoDB', 'PostgreSQL'],
+        orm: ['Prisma', 'TypeORM'],
+        search: ['Meilisearch'],
+        cloud: ['AWS S3', 'AWS SDK'],
+      },
+      devOps: {
+        tools: ['Docker', 'TurboRepo', 'Git'],
+      },
     },
-    technical: {
-        technologies: {
-            frontEnd: {
-                Javascript: ['Vanilla JS', 'React'],
-                TypeScript,
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'Styled-Components']
-            },
-            backEnd: {
-                Javascript: ['Node JS', 'Express'],
-                TypeScript,
-                ORM: ['TypeORM'],
-                DataBase: ['PostgreSQL']
-          }
-        }
-    }
+    softSkills: ['Problem Solving', 'Communication', 'Team Collaboration'],
+    workStyle: ['Remote Friendly', 'Agile (Scrum/Kanban)', 'Product-Minded'],
+  },
+  currentFocus: [
+    'Scalable architectures',
+    'Headless CMS',
+    'Monorepos',
+    'API integrations',
+  ],
 }
+
 
 ```
 </div>
