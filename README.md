@@ -16,7 +16,7 @@ const me = {
     fullName: 'Fábio Roberto de Godoy',
     birthDate: '1995-04-26',
     pronouns: 'he' as const,
-    hobbies: ['Coding', 'Muay Thai', 'Movies', 'Travel', 'Family Time'],
+    hobbies: ['Coding', 'Movies', 'Travel', 'Family Time'],
   },
   technical: {
     role: 'Full Stack Developer',
@@ -24,12 +24,12 @@ const me = {
       frontEnd: {
         languages: ['JavaScript', 'TypeScript'],
         frameworks: ['React', 'Next.js (App & Pages Router)'],
-        styling: ['Tailwind CSS', 'Radix UI', 'Framer Motion'],
+        styling: ['Tailwind CSS', 'Radix UI', 'Framer Motion', 'Styled Components'],
         tools: ['React Hook Form', 'Zod', 'Zustand'],
       },
       backEnd: {
         languages: ['Node.js', 'TypeScript'],
-        frameworks: ['Express', 'Fastify'],
+        frameworks: ['Express', 'Fastify', 'NestJS'],
         database: ['DynamoDB', 'MongoDB', 'PostgreSQL'],
         orm: ['Prisma', 'TypeORM'],
         search: ['Meilisearch'],
